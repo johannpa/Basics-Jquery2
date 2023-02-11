@@ -1,0 +1,11 @@
+#topic, #description {
+    padding: 5px;
+    text-align: center;
+    background-color: yellow;
+    border: solid 1px red;
+}
+
+#description {
+    padding: 50px;
+    display: none;
+}
